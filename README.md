@@ -36,8 +36,8 @@ Durante essa Imersão, tivemos como objetivo consumir APIs para criação de fig
   * Adicionando bordas na frase em destaque
 
 # Links
-Link da API do IMDb: https://imdb-api.com/en/API/MostPopularMovies/k_d7c13vly
-Link da API da NASA: https://api.nasa.gov/planetary/apod?api_key=hzjch8MpTjqTp2TNhXu1sNlYI5fHEVZ1EraevUxc&start_date=2022-06-14&end_date=2022-06-20
+<p>Link da API do IMDb: https://imdb-api.com/en/API/MostPopularMovies/k_d7c13vly</p>
+<p>Link da API da NASA: https://api.nasa.gov/planetary/apod?api_key=hzjch8MpTjqTp2TNhXu1sNlYI5fHEVZ1EraevUxc&start_date=2022-06-14&end_date=2022-06-20</p>
 
 # ⚠️ Observações
 * O programa irá criar automaticamente o diretório /stickerswhatsapp. Caso já exista, não será criado um novo diretório.
