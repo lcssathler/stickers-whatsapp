@@ -37,7 +37,8 @@ Durante essa Imersão, tivemos como objetivo consumir APIs para criação de fig
 
 # ✅ Resultados
 ## <p>Aqui encontra-se alguns exemplos das figurinhas geradas</p>
-![result](https://user-images.githubusercontent.com/115672410/230675632-4ef9c101-4edf-4ad2-8d2b-e76e89957b12.jpg)
+![Result](https://user-images.githubusercontent.com/115672410/230679778-dc8d5e18-e614-467e-8c89-7b265e3ed66c.jpeg)
+
 
 # ⚠️ Observações
 * O programa irá criar automaticamente o diretório /stickerswhatsapp. Caso já exista, não será criado um novo diretório.
