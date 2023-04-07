@@ -10,7 +10,7 @@ Projeto backend desenvolvido durante a semana Imersão Java oferecida pela Alura
 * JSON
 
 ## 🕹️ Visão Geral
-Durante essa Imersão, tivemos como objetivo consumir APIs para criação de figurinhas que possam ser utilizadas no Whatsapp, além de criar nossa própria API hospedada em um banco de dados gratuito.
+Durante essa Imersão, tivemos como objetivo consumir APIs para criação de figurinhas que possam ser utilizadas no Whatsapp. As APIs utilizadas neste projeto são os Most Popular Films, do IMDb, e os APOD (Astronomy Picture of the Day).
 
 ## 📚 Metodologias Utilizadas
 ### Java
@@ -35,13 +35,19 @@ Durante essa Imersão, tivemos como objetivo consumir APIs para criação de fig
   * Adicionando frases nas figurinhas  
   * Adicionando bordas na frase em destaque
 
+#Links
+Link da API do IMDb: https://imdb-api.com/en/API/MostPopularMovies/k_d7c13vly
+Link da API da NASA: https://api.nasa.gov/planetary/apod?api_key=hzjch8MpTjqTp2TNhXu1sNlYI5fHEVZ1EraevUxc&start_date=2022-06-14&end_date=2022-06-20
+
+# ⚠️ Observações
+* O programa irá criar automaticamente o diretório /stickerswhatsapp. Caso já exista, não será criado um novo diretório.
+* As URLs das APIs estão guardadas em variáveis de ambiente.
+* Na classe StickerAPI, as linhas 14 e 15 se referem a API do IMDb, enquanto as linhas 18 e 19 se referem a API da NASA. Para utilizar a API do IMDb, basta comentar o bloco de linhas referente a da NASA, e vice-versa.
+* É possível alterar o texto das figurinhas na linha 37 da classe StickerGenerator.
+
 # ✅ Resultados
 ## <p>Aqui encontra-se alguns exemplos das figurinhas geradas</p>
 ![Result](https://user-images.githubusercontent.com/115672410/230679778-dc8d5e18-e614-467e-8c89-7b265e3ed66c.jpeg)
 
 
-# ⚠️ Observações
-* O programa irá criar automaticamente o diretório /stickerswhatsapp. Caso já exista, não será criado um novo diretório.
-* As URLs das APIs estão guardadas em variáveis de ambiente.
-* Na classe StickerAPI, as linhas 14 e 15 se referem a API do IMDB, enquanto as linhas 18 e 19 se referem a API da NASA. Para utilizar a API do IMDB, basta comentar o bloco de linhas referente a da NASA, e vice-versa.
-* É possível alterar o texto das figurinhas na linha 37 da classe StickerGenerator.
+
