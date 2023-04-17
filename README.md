@@ -10,7 +10,7 @@ Projeto backend desenvolvido durante a semana Imersão Java oferecida pela Alura
 * JSON
 
 ## 🕹️ Visão Geral
-Durante essa Imersão, tivemos como objetivo consumir APIs para criação de figurinhas que possam ser utilizadas no Whatsapp. As APIs utilizadas neste projeto são os Most Popular Films, do IMDb, e os APOD (Astronomy Picture of the Day).
+Durante essa Imersão, tivemos como objetivo consumir APIs para criação de figurinhas que possam ser utilizadas no Whatsapp. As APIs utilizadas neste projeto são os Most Popular Films, do IMDb, e os APOD (Astronomy Picture of the Day), da NASA.
 
 ## 📚 Metodologias Utilizadas
 ### Java
